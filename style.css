@@ -191,7 +191,7 @@ body{
 }
 
 .settings__slider {
-    margin: 35px 22px 98px 23px;
+    margin: 35px 22px 60px 23px;
     display: block;
 }
 
@@ -335,8 +335,8 @@ body{
 
     .flow {
         padding-bottom: 498px;
-        padding-left: 64px;
-        padding-right: 65px;
+        padding-left: 60px;
+        padding-right: 60px;
     }
 
     .text_flow-p {
@@ -369,15 +369,11 @@ body{
 
     .text_flow:last-child{
         padding-right: 0;
-    }
-
-
-    .settings{
-        padding-bottom: 70px;
+        border: none
     }
 
     .settings__slider{
-        margin: 54px 198px 150px;
+        margin: 54px 198px 15.0px;
     }
 
     .settings__content{
